@@ -5,7 +5,7 @@ This library provides an implementation for digital filter cascades, supporting 
 ## Features
 
 - **Filter Types**: High-pass, Low-pass, Band-pass, and Band-stop.
-- **Filter Order**: Configurable up to a maximum order of 6.
+- **Filter Order**: Configurable by the user, with a default maximum order of 6.
 - **Reset and Update**: Easily reset and update filter states for real-time processing.
 - **Configurable Parameters**: Set filter type, order, center frequency, bandwidth, and sampling frequency.
 
