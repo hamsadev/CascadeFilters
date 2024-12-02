@@ -56,7 +56,7 @@ filterCascadeReset(&cascade);
 
 ### Functions
 
-### `void filterCascadeInitialise(FilterCascade* cascade, FilterType type, int numberOfFilters, double centerFrequency, double bandwidth, double sampleFrequency)`
+#### `void filterCascadeInitialise(FilterCascade* cascade, FilterType type, int numberOfFilters, double centerFrequency, double bandwidth, double sampleFrequency)`
 
 Initializes a filter cascade.
 
